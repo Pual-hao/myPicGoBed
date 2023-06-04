@@ -1,0 +1,2 @@
+# myPicGoBed
+图床
